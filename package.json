@@ -1,0 +1,19 @@
+{
+  "name": "docsify-pagination-keyboard-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brannua/docsify-pagination-keyboard-helper.git"
+  },
+  "keywords": ["docsify-plugin", "Use shortcut keys to turn pages"],
+  "author": "brannua <374453156@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brannua/docsify-pagination-keyboard-helper/issues"
+  },
+  "homepage": "https://github.com/Brannua/docsify-pagination-keyboard-helper"
+}
