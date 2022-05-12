@@ -1,5 +1,7 @@
 ## docsify-pagination-keyboard-helper
 
+[![npm](https://img.shields.io/npm/v/docsify-pagination-keyboard-helper)](https://www.npmjs.com/package/docsify-pagination-keyboard-helper)
+
 A plugin for [docsify](https://docsify.js.org/) site that enables you to turn pages quickly by using keyboard shortcuts.
 
 ### Usage
