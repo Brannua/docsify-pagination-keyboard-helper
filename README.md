@@ -4,6 +4,8 @@
 
 A plugin for [docsify](https://docsify.js.org/) site that enables you to turn pages quickly by using keyboard shortcuts.
 
+![PREVIEW](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/helper.gif)
+
 ### Usage
 
 #### Note
