@@ -6,11 +6,11 @@ let linkRefresher = () => {
       nextArr     = document.getElementsByClassName('pagination-item pagination-item--next');
 
   previousLink    = previousArr[0] ?
-                    previousArr[0].getElementsByTagName('a')[0].href :
+                    previousArr[0].getElementsByTagName('a')[0]?.href :
                     document.location.href;
 
   nextLink        = nextArr[0] ?
-                    nextArr[0].getElementsByTagName('a')[0].href :
+                    nextArr[0].getElementsByTagName('a')[0]?.href :
                     document.location.href;
 }
 
