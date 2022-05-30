@@ -24,10 +24,12 @@ You can paginate between pages quickly on the web page of your docsify site by u
 
 |key|meaning|
 |:--|:--|
-|h|previous page|
-|<-|previous page|
+|j|next page|
+|k|previous page|
 |l|next page|
+|h|previous page|
 |->|next page|
+|<-|previous page|
 
 ### Development
 

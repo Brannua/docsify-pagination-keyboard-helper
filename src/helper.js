@@ -21,6 +21,8 @@ document.onkeydown = (e) => {
   switch (e.key) {
     case 'ArrowRight':  document.location.href = nextLink;      break;
     case 'ArrowLeft':   document.location.href = previousLink;  break;
+    case 'j':           document.location.href = nextLink;      break;
+    case 'k':           document.location.href = previousLink;  break;
     case 'l':           document.location.href = nextLink;      break;
     case 'h':           document.location.href = previousLink;  break;
     default:            break;
