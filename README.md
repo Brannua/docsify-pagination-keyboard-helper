@@ -15,7 +15,7 @@ A plugin for [docsify](https://docsify.js.org/) site that enables you to turn pa
 #### Installation
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination-keyboard-helper/dist/bundle.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-pagination-keyboard-helper@latest/dist/bundle.js"></script>
 ```
 
 #### Features
